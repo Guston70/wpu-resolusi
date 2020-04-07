@@ -1,0 +1,4 @@
+Halo pak, salam kenal nama saya Agus Tonny dari Pekalongan. Saya seorang security di Perusahaan.
+Saya suka mengisi waktu dinas malam untuk belajar ngoding.
+Resolusi saya :
+- CRUD database menggunakan Javascript.
